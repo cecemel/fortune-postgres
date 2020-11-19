@@ -14,7 +14,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "pg": "^7.14.0"
+    "pg": "https://github.com/cecemel/node-postgres.git#df54360be3b4047e081282d2bd2494d1c216c407"
   },
   "optionalDependencies": {
     "pg-native": "^3.0.0"
